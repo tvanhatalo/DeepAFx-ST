@@ -10,7 +10,9 @@ env/
 *.egg-info
 __pycache__
 .ipynb_checkpoints
-examples/
+examples/voice_raw_out_ref=voice_produced.wav
+examples/voice_raw_in.wav
+examples/pretrained_baseline
 med/
 audio/
 outputs/
