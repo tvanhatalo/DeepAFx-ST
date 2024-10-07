@@ -1,7 +1,7 @@
-lightning_logs
+# lightning_logs
 plots/
 test/
-*.ckpt
+# *.ckpt
 scratch/
 outputs/
 .DS_Store
@@ -17,4 +17,17 @@ med/
 audio/
 outputs/
 env_test/
-checkpoints/
+checkpoints/cdpam
+checkpoints/probes
+checkpoints/cdpam
+checkpoints/proxies
+checkpoints/LICENSE
+checkpoints/style/libritts
+proxy0
+proxy0m
+proxy2
+proxy2m
+spsa
+tcn1
+tcn2
+*.sif
