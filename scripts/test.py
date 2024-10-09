@@ -1,3 +1,6 @@
 import torch 
+import sys
+from deepafx_st.utils import DSPMode
 
-print(torch.__version__)
+print(f"pytorch version is {torch.__version__}\n")
+print(f"path is {sys.path}")
